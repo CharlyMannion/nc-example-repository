@@ -25,3 +25,9 @@ git config --global user.email <github-email>
 5. Make some changes locally to your project. Stage and commit those changes.
 
 6. Push all of your local changes to the new remote github repository.
+
+*Advanced Extra*
+
+7. On Github add a file using the add a file button - call it anything you like and fill it with whatever you like! Make sure to press the commit file button at the bottom of the page. Now your github repository should look different to the code you have locally.
+
+7. Now use the command `git pull orign master` to retrieve the remote changes that you want to store locally. This should bring down the new file you just added 😄
